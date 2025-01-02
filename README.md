@@ -1,16 +1,18 @@
-## Hi there 👋
+I am an active researcher in machine learning, meical image analysis, fluid dynamics, partial differential equations and their applications. I am particularly interested in exploring the intersection of mathematical modeling, machine learning and natural language processing.
 
-<!--
-**DDX007/DDX007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I'm looking for a Ph.D. position on a well-facilitated platform where I can learn as well as conduct research to examine situations in the real world.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning: Python
+Applied Mathematics: Numerical Methods, PDEs, Optimization, Statistics
+Programming: Python, MATLAB, R, C, C++
+Tools: Git, LaTeX
+
+Interests:
+
+Machine Learning Security
+Software Security
+AI for Mathematical Modeling
+
+Let's collaborate!
